@@ -10,7 +10,7 @@
 
 ---
 
-## ⚒️ Skills  
+## Skills  
 
 <p align="center">
   
@@ -47,21 +47,24 @@
   <img src="https://img.shields.io/badge/AI%20Prompt%20Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
   
 </p>
----
-## 📊 Highlights
-- Built multiple AI productivity tools used in real applications (resume automation, email triage).
-- Designed Power BI dashboards (Academic/Status/Forecasts) with navigations and slicers.
-- Led projects end-to-end: architecture, APIs, DB schema, CI, and deploys.
 
 ---
 
-## 🤝 Networking
+## Highlights  
+
+- Built multiple **AI productivity tools** used in real applications (resume automation, email triage).  
+- Designed **Power BI dashboards** (Academic / Status / Forecasts) with navigation and slicers.  
+- Led projects end-to-end: **architecture, APIs, database schema, CI/CD, and deployments**.  
+
+---
+
+## Networking
 - Open to collaboration on Java Backend Dev, React UI/UX, AI automation, developer tooling, and resume tech.
 - Looking for Software Engineer roles (AI/Automation/Full-Stack).
 
 ---
 
-## 📫 Connect  
+## Lets Connect!  
 
 - **LinkedIn:** [mohammad-mahaboob-pasha](https://www.linkedin.com/in/mohammad-mahaboob-pasha/)  
 - **GitHub:** [miabu-pashh](https://github.com/miabu-pashh)  
@@ -71,7 +74,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![Maibu's GitHub stats](https://github-readme-stats.vercel.app/api?username=miabu-pashh&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miabu-pashh&layout=compact)
 
