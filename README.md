@@ -1,4 +1,4 @@
-# Howdy 🤠 👋
+# Howdy 🤠 
 
 **Software Engineer • React • Java • AI + Full-Stack • Product Builder**
 
