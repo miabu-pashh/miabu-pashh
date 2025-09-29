@@ -2,7 +2,7 @@
 
 **Software Engineer • React • Java • AI + Full-Stack • Product Builder**
 
-- I'm Maibu pashh, a Software engineering graduate from SLU. Also I hold bachelors in Mechanical Engineering. The brain has Science and Software combined 😂.
+- I'm Mahaboob Pasha Mohammad (Maibu Pashh), a Software engineering graduate from SLU. Also I hold bachelors in Mechanical Engineering. The brain has Science and Software combined 😂.
 - I build end-to-end products: React/React Native frontends, Node/Express backends, Postgres/Prisma, and AI assistants.
 - Interests: Full-stack development, Java, React, AI automation, Latex tooling, cross-device utilities, offline-first apps, data viz.
 - M.S. Software Engineering (Saint Louis University) — GPA 3.9
