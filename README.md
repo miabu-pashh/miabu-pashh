@@ -68,7 +68,7 @@
 
 - **LinkedIn:** [mohammad-mahaboob-pasha](https://www.linkedin.com/in/mohammad-mahaboob-pasha/)  
 - **GitHub:** [miabu-pashh](https://github.com/miabu-pashh)  
-- **Digi Resume:** [digiresume.netlify.app](https://digiresume.netlify.app/)  
+ <!-- **Digi Resume:** [digiresume.netlify.app](https://digiresume.netlify.app/)  -->
 - **Email:** [mahaboobpashamohammad8@gmail.com](mailto:mahaboobpashamohammad8@gmail.com)  
 
 
